@@ -1,0 +1,6 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+Instagram,FitJune,INF001,U001,Whey Protein,2024-06-01,2,1800
+YouTube,FitJune,INF002,U002,Protein Bar,2024-06-03,3,1200
+Instagram,FoodBuzz,INF003,U003,Energy Bites,2024-06-02,1,300
+Twitter,HealPulse,INF004,U004,Multivitamin,2024-06-04,1,400
+Instagram,FitJune,INF005,U005,Whey Protein,2024-06-05,4,3200
